@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **pshushereba/pshushereba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +18,20 @@ Here are some ideas to get you started:
 My name is Patrick, and I am a full stack web developer based out of Southern California. I enjoy using modern web technologies to build applications that both serve a purpose and solve technical problems in interesting ways. When I'm not developing, you can find me reading, deep diving on new programming languages/technologies, or running half marathons.
 
 ---
+
+## 🔭 What I am currently working on
+
+- Propria Persona
+
+## 💻 What I am currently learning
+
+- Intermediate/Advanced Python Programming
+- Cybersecurity and Ethical Hacking
+
+## 📖 What I am currently reading
+
+- These Truths, by Jill Lepore
+
+## 📫 Where to find me
+
+- [LinkedIn](https://www.linkedin.com/in/pshushereba/)
