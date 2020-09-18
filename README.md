@@ -21,7 +21,7 @@ My name is Patrick, and I am a full stack web developer based out of Southern Ca
 
 ## 🔭 What I am currently working on
 
-- [Propria Persona](https://www.propriapersona.com)
+- [Propria Persona](https://propriapersona.com)
 
 ## 💻 What I am currently learning
 
