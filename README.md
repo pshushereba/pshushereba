@@ -30,7 +30,7 @@ My name is Patrick, and I am a full stack web developer based out of Southern Ca
 
 ## 📖 What I am currently reading
 
-- These Truths, by Jill Lepore
+- What The Dog Saw, by Malcolm Gladwell
 
 ## 📫 Where to find me
 
