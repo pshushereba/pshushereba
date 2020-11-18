@@ -21,7 +21,11 @@ My name is Patrick, and I am a full stack web developer based out of Southern Ca
 
 ## 🔭 What I am currently working on
 
-- [Propria Persona](https://propriapersona.com)
+- [Appetizen](https://appetizen.com)
+
+### Previous
+
+- [Nutrivurv](https://www.youtube.com/watch?v=fwnSyCY4jsE&feature=youtu.be&t=195)
 
 ## 💻 What I am currently learning
 
