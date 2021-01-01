@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
@@ -34,7 +33,7 @@ My name is Patrick, and I am a full stack web developer based out of Southern Ca
 
 ## 📖 What I am currently reading
 
-- The Black Swan, by Nassim Nicholas Taleb
+- The Almanack of Naval Ravikant
 
 ## 📫 Where to find me
 
