@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 # Hello, Friend
 
-My name is Patrick, and I am a full stack web developer based out of Southern California. I enjoy using modern web technologies to build applications that both serve a purpose and solve technical problems in interesting ways. When I'm not developing, you can find me reading, deep diving on new programming languages/technologies, or running half marathons.
+My name is Patrick, and I am a full stack web developer currently working at Nexient. I enjoy using modern web technologies to build applications that both serve a purpose and solve technical problems in interesting ways. When I'm not developing, you can find me reading, deep diving on new programming languages/technologies, or running half marathons.
 
 ---
 
@@ -33,7 +33,7 @@ My name is Patrick, and I am a full stack web developer based out of Southern Ca
 
 ## 📖 What I am currently reading
 
-- The Almanack of Naval Ravikant
+- Radical Candor by Kim Scott
 
 ## 📫 Where to find me
 
