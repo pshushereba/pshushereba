@@ -28,12 +28,13 @@ My name is Patrick, and I am a full stack web developer currently working at Nex
 
 ## 💻 What I am currently learning
 
+- Java
 - Intermediate/Advanced Python Programming
 - Cybersecurity and Ethical Hacking
 
 ## 📖 What I am currently reading
 
-- Radical Candor by Kim Scott
+- The Wires of War by Jacob Helberg
 
 ## 📫 Where to find me
 
