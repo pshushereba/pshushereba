@@ -20,7 +20,8 @@ My name is Patrick, and I am a full stack web developer currently working at Nex
 
 ## 🔭 What I am currently working on
 
-- [Appetizen](https://appetizen.com)
+- A SaaS product
+- A Vue.js Library
 
 ### Previous
 
@@ -34,7 +35,7 @@ My name is Patrick, and I am a full stack web developer currently working at Nex
 
 ## 📖 What I am currently reading
 
-- The Wires of War by Jacob Helberg
+- Think Again by Adam Grant
 
 ## 📫 Where to find me
 
